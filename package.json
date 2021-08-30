@@ -3,6 +3,7 @@
 	"author": "Marie Knowlton",
 	"description": "A project that teaches to build an App that uses NPM",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
