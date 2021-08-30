@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marie Knowlton",
 	"description": "A project that teaches to build an App that uses NPM",
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
