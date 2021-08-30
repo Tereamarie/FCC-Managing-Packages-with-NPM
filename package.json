@@ -4,6 +4,7 @@
 	"description": "A project that teaches to build an App that uses NPM",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
